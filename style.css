@@ -3,6 +3,7 @@
     height: 500px;
     width: 500px;
     border-radius: 50%;
+    background-image: radial-gradient(circle, #0000 15%, #000f 78%);
 }
 
 h1 {
